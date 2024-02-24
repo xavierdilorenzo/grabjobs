@@ -1,0 +1,74 @@
+body {
+    background-color: #e0e0e0; /* Cambié el color de fondo a un gris más claro */
+    font-family: 'Arial', sans-serif;
+}
+
+.header {
+    background-color: #3498db; /* Cambié el color del encabezado a un azul más vibrante */
+    color: white;
+    padding: 1rem;
+    text-align: center;
+}
+
+.logo {
+    width: 100px; /* Ajusté el tamaño del logo */
+}
+
+.container {
+    width: 500px;
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0px 0px 10px 1px rgba(0,0,0,0.2);
+    margin: 50px auto;
+    text-align: center;
+}
+
+.title {
+    color: #4d4d4d;
+    font-size: 2em;
+    margin-bottom: 0;
+}
+
+.subtitle {
+    color: #4d4d4d;
+    font-size: 1.2em;
+    margin-top: 0;
+}
+
+.company-info {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.company-name {
+    color: #4d4d4d;
+    font-size: 1.1em;
+    margin-bottom: 10px;
+}
+
+.job-type, .location {
+    color: #808080;
+    font-size: 0.9em;
+    margin-bottom: 10px;
+}
+
+.apply-button {
+    background-color: #4CAF50;
+    color: #ffffff;
+    padding: 14px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 1em;
+}
+
+.apply-button:hover {
+    background-color: #45a049;
+}
+
+.footer {
+    background-color: #3498db; /* Cambié el color del pie de página para que coincida con el encabezado */
+    color: white;
+    padding: 14px 20px;
+}
